@@ -108,6 +108,8 @@
 # set1 = set(input('Enter text: '))
 # print(len(set1))
 # ==================================================
+# Ex 143.
+# ==================================================
 # text1 = list(input('Enter anogram word: '))
 # text2 = list(input('Enter anogram word: '))
 # text1.sort()
